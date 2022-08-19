@@ -28,7 +28,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-It took me quite a bit to familiarize myself with Github. Additionally, Kotlin syntax wasn't easy to remember without practicing a lot as I mainly use Python. 
+It took me quite some time to familiarize myself with Github as I barely use it before. Additionally, Kotlin syntax wasn't easy to remember without practicing a lot as I mainly use Python. 
 
 ## License
 
